@@ -29,8 +29,8 @@ function App() {
     <div className="App">
       <nav className="navbar navbar-light bg-light mb-2">
         <a class="navbar-brand" href="https://www.youtube.com/@IntegrationNinjas">
-          <img src="./logo_p.png" width="50" height="50" class="d-inline-block" alt="" />
-          Integration Ninja
+          <img src="https://cdn-icons-png.flaticon.com/512/1/1176.png" width="50" height="50" class="d-inline-block" alt="" />
+          AWS React App 
         </a>
       </nav>
       <div className='container'>
